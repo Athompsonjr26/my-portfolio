@@ -11,12 +11,12 @@ body{
 }
 
 a{
-	color:#FF6F00;
+	color:#080a63;
 	text-decoration:none
 }
 
 a:hover,a:focus{
-	color:#FFA000;
+	color:#0c002d;
 	text-decoration:underline
 }
 
@@ -59,11 +59,11 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .bg2{
     color:#fff;
-    background:#FFA000;
+    background:#0c002d;
 }
 
 .orange{
-    color:#FF6F00;
+    color:#080a63;
 }
 
 /*------------------
@@ -75,7 +75,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     color:#fff;
     font-size: 21pt;
     font-weight: 300;
-    background:#FF6F00;
+    background:#080a63;
     outline: none !important;
     border-radius: 0;
     transition: background .5s;
@@ -83,7 +83,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .btn-color1:hover{
     color:#fff;
-    background:#FFA000;
+    background:#0c002d;
 }
 
 .btn-color1:focus, .btn-color1:active{
@@ -203,7 +203,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 }
 
 #main-nav.scrolled .nav li.active a, #main-nav.scrolled .nav a:hover{
-    color: #FF6F00;
+    color: #080a63;
 }
 
 #main-nav i{
@@ -244,7 +244,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     margin:0 auto;
     font-size: 24pt;
     font-weight: 600;
-    background: #FFA000;
+    background: #0c002d;
     display: table;
     padding:5px 10px;
     position: relative;
@@ -261,7 +261,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     z-index: -1;
     font-size: 40pt;
     font-weight: 600;
-    background: #FF6F00;
+    background: #080a63;
     display: table;
     padding:5px 10px;
     border: 5px solid #fff;
@@ -284,7 +284,6 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 #about .about-text{
     margin-bottom:50px;
     font-size: 16pt;
-    text-align: justify;
 }
 
 #about .imageCont {
@@ -329,7 +328,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 }
 
 #about .timeline div i{
-    background: #FF6F00;
+    background: #080a63;
     color:#fff;
     width:60px;
     height:60px;
@@ -344,13 +343,12 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 #about .timeline div h3{
     padding-top:36px;
     margin-left:30px;
-    color: #FF6F00;
+    color: #080a63;
     font-weight: 500;
 }
 
 #about .timeline div p{
     margin-left:30px;
-    text-align: justify;
 }
 
 #about .timeline div p span{
@@ -365,7 +363,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 #skills{
     padding-top:60px;
     padding-bottom:120px;
-    border-top:10px solid #FF6F00;
+    border-top:10px solid #080a63;
 }
 
 .chart {
@@ -388,6 +386,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     position: absolute;
     top: 0;
     left: 0;
+		display: none;
 }
 
 .percent {
@@ -461,7 +460,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 }
 
 #filter-works ul li.active a, #filter-works ul li:hover a{
-    color:#FF6F00;
+    color:#080a63;
 }
 
 .masonry-wrapper{
@@ -533,7 +532,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     padding: 0px;
-    background: #FF6F00;
+    background: #080a63;
 }
 
 .modal-header img{
@@ -550,7 +549,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     margin: 50px;
     font-size: 26pt;
     font-weight: 600;
-    background: #FF6F00;
+    background: #080a63;
     padding:5px 10px;
     border: 5px solid #fff;
     color:#fff;
@@ -566,12 +565,12 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     font-size: 14pt;
     font-weight: 200;
     border: 5px solid #fff;
-    background: #FFA000;
+    background: #0c002d;
     padding:0px 10px;
 }
 
 .modal-header .close{
-    background: #FF6F00;
+    background: #080a63;
     border: 1px solid #fff;
     color: #fff;
     opacity: 1;
@@ -590,7 +589,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 }
 
 .modal-header .close:hover{
-    background: #FFA000;
+    background: #0c002d;
     border-radius: 50% 50% 50% 50%;
 }
 
@@ -663,7 +662,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     height:50px;
     line-height:50px;
     text-align:center;
-    background:#FF6F00;
+    background:#080a63;
     border-radius:50% 50% 0 50%;
     margin-right:5px;
     border: 1px solid #fff;
@@ -677,11 +676,11 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 }
 
 #contact .contact-list a:hover{
-    color: #FF6F00;
+    color: #080a63;
 }
 
 #contact .contact-list a:hover i{
-    background:#FFA000;
+    background:#0c002d;
     border-radius:50% 50% 50% 50%;
 }
 
@@ -695,7 +694,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 		height: 550px;
 		margin: 0 auto;
     border-radius: 50% 50% 0 50%;
-    border: 10px solid #FF6F00;
+    border: 10px solid #080a63;
 }
 
 /*----------------------
@@ -707,7 +706,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     padding-bottom:40px;
     background: #6D6D6D;
     text-align: center;
-    border-top: 10px solid #FF6F00;
+    border-top: 10px solid #080a63;
 }
 
 #main-footer p{
@@ -736,7 +735,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     height:50px;
     line-height:50px;
     text-align:center;
-    background:#FF6F00;
+    background:#080a63;
     border-radius:50% 50% 0 50%;
     margin-right:5px;
     border: 1px solid #fff;
@@ -745,7 +744,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 }
 
 .social a:hover {
-    background:#FFA000;
+    background:#0c002d;
     border-radius:50% 50% 50% 50%;
 }
 
@@ -804,7 +803,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     }
 
     #main-footer p, #main-footer p a{
-        color: #FF6F00;
+        color: #080a63;
         font-weight: 500;
         text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
     }
@@ -822,11 +821,11 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     }
 
     #main-nav.scrolled .navbar-toggle{
-        border-color: #FF6F00;
+        border-color: #080a63;
     }
 
     #main-nav.scrolled .navbar-toggle .icon-bar{
-        background: #FF6F00;
+        background: #080a63;
     }
 
     #home p{
